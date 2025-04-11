@@ -2,14 +2,13 @@
 //  AppDelegate.swift
 //  Game2
 //
-//  Created by Mike on 4/5/25.
+//  Created by Mike on 4/10/25.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
