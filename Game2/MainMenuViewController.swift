@@ -12,6 +12,7 @@ import QuartzCore
 
 class MainMenuViewController: UIViewController {
 
+    @IBOutlet weak var rotationAngleLabel: UILabel!
     @IBOutlet weak var fish2: UIImageView!
     @IBOutlet weak var progressView: UIProgressView!
     @IBOutlet weak var showBtn: UIButton!
